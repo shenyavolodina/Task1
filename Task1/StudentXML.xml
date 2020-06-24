@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ArrayOfStudent>
   <Student>
-    <Name>Молчанов Александр</Name>
+    <Name>Molchanov Alexandr</Name>
     <AvgMark>4.2</AvgMark>
   </Student>
   <Student>
-    <Name>Колесников Чеслав</Name>
+    <Name>Kolesnikov Andrey</Name>
     <AvgMark>3.1</AvgMark>
   </Student>
   <Student>
-    <Name>Гончар Шарль</Name>
+    <Name>Gonchar Sergey</Name>
     <AvgMark>3.5</AvgMark>
   </Student>
   <Student>
-    <Name>Доронин Зигмунд</Name>
+    <Name>Doronin Pavel</Name>
     <AvgMark>3.1</AvgMark>
   </Student>
   <Student>
-    <Name>Бобров Игнат</Name>
+    <Name>Bobrov Ignat</Name>
     <AvgMark>4.8</AvgMark>
   </Student>
   <Student>
-    <Name>Русаков Олег</Name>
+    <Name>Rusakov Oleg</Name>
     <AvgMark>4.1</AvgMark>
   </Student>
   <Student>
-    <Name>Красильников Святослав</Name>
+    <Name>Krasilnikov Svatoslav</Name>
     <AvgMark>4.4</AvgMark>
   </Student>
   <Student>
-    <Name>Аксёнов Альберт</Name>
+    <Name>Aksenov Alex</Name>
     <AvgMark>4.7</AvgMark>
   </Student>
 
